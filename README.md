@@ -11,7 +11,7 @@ Filter:
 - Drive parameter which modifies the input gain into a tan(x) function waveshaper
 
 ADSR
-- Simple ADSR Envelope generator which can be controlled by the UI
+- Simple ADSR Envelope (effecting the amplitude of each note) generator which can be controlled by the UI
 
 Pitch
 - Detune slider which detunes some of the oscillators from the fundamental frequency 
