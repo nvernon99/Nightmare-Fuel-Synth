@@ -21,6 +21,6 @@ Reverb
 - Reverb size, width (panning), and damp (lowpass) are all controlled via the UI
 - Dry and wet levels can be modified
 
-Some of the code is based on open-source code by Joshua Hodge (The Audio Programmer) as part of his TAP Synthesizer. The rest of the code is by me, Nolan Vernon
+Some of the code is based on open-source code by Joshua Hodge ("The Audio Programmer") as part of his TAP Synthesizer. The rest of the code is by me, Nolan Vernon
 
 Enjoy!
