@@ -1,5 +1,7 @@
 # Nightmare Fuel - Synthesizer Plug-In
 
+DEMO VIDEO LINK: https://www.youtube.com/watch?v=URiZ6c89vh8&feature=youtu.be
+
 Summary:
 - This is a JUCE/C++ based MIDI-controlled monophonic synthesizer in VST3 and Standalone (.exe) formats
 - Uses 6 saw wave oscillators
